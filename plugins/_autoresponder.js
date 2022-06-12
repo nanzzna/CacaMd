@@ -103,7 +103,7 @@ let assl = assal[Math.floor(Math.random() * assal.length)]
 /* - - - - - - - Ini autoresponder by aine - - - - - - - */
 /* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
     
-   /* let hiai = /(hi|hii|hiii|hi aine|hii aine|hiii aine|hy|halo|hallo|helo|hello|hy aine|halo aine|hallo aine|helo aine|hello aine)/i
+   /* let hiai = /(hi|hii|hiii|hi Caca|hii caca|hai caca|hy|halo|hallo|helo|hello caca|halo caca|hallo caca|helo caca|hello caca)/i
     let isAih = hiai.exec(m.text)
     let hiain = [
 '🥰',
